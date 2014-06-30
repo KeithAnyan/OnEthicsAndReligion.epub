@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:82d029ca-bf80-4e22-85bf-4f66307d82a9" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>On Ethics &amp; Religion</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>What if there's no such thing as chaotic good?</text>
+      </navLabel>
+      <content src="Text/what-if-theres-no-such-thing-as-chaotic.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Two kinds of repeaters</text>
+      </navLabel>
+      <content src="Text/two-kinds-of-repeaters.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Idealism is not great</text>
+      </navLabel>
+      <content src="Text/idealism-is-not-great.html" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Five ways to classify belief systems</text>
+      </navLabel>
+      <content src="Text/six-ways-to-classify-belief-systems.html" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Understanding racial idealism</text>
+      </navLabel>
+      <content src="Text/understanding-racial-idealism.html" />
+    </navPoint>
+  </navMap>
+</ncx>

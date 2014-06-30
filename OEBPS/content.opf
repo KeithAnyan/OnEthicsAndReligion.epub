@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:82d029ca-bf80-4e22-85bf-4f66307d82a9</dc:identifier>
+    <dc:title>On Ethics &amp; Religion</dc:title>
+    <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="modification">2014-06-30</dc:date>
+    <dc:date opf:event="publication">2007-05-28</dc:date>
+    <dc:contributor opf:role="trc">@jbboehr</dc:contributor>
+    <dc:source>http://unqualified-reservations.blogspot.com/</dc:source>
+    <dc:source>http://moldbuggery.blogspot.com/</dc:source>
+    <meta content="0.7.4" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Fonts/philosopher.ttf" id="philosopher.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-bold.ttf" id="philosopher-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic.ttf" id="philosopher-italic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic-bold.ttf" id="philosopher-italic-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Text/idealism-is-not-great.html" id="idealism-is-not-great.html" media-type="application/xhtml+xml" />
+    <item href="Text/six-ways-to-classify-belief-systems.html" id="six-ways-to-classify-belief-systems.html" media-type="application/xhtml+xml" />
+    <item href="Text/two-kinds-of-repeaters.html" id="two-kinds-of-repeaters.html" media-type="application/xhtml+xml" />
+    <item href="Text/understanding-racial-idealism.html" id="understanding-racial-idealism.html" media-type="application/xhtml+xml" />
+    <item href="Text/what-if-theres-no-such-thing-as-chaotic.html" id="what-if-theres-no-such-thing-as-chaotic.html" media-type="application/xhtml+xml" />
+    <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title.html" />
+    <itemref idref="what-if-theres-no-such-thing-as-chaotic.html" />
+    <itemref idref="two-kinds-of-repeaters.html" />
+    <itemref idref="idealism-is-not-great.html" />
+    <itemref idref="six-ways-to-classify-belief-systems.html" />
+    <itemref idref="understanding-racial-idealism.html" />
+  </spine>
+  <guide>
+    <reference href="Text/title.html" title="Title Page" type="title-page" />
+    <reference href="Text/what-if-theres-no-such-thing-as-chaotic.html" title="Text" type="text" />
+  </guide>
+</package>
